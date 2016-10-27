@@ -1,10 +1,10 @@
 # untheme
 
-Contributors: Tania Rascia
-Version: 0.0.1
-License: MIT
-License URI: https://github.com/taniarascia/untheme/blob/master/LICENSE
-Tags: easy, simple, minimalist, developer, dev
+* Contributors: Tania Rascia
+* Version: 0.0.1
+* License: MIT
+* License URI: https://github.com/taniarascia/untheme/blob/master/LICENSE
+* Tags: easy, simple, minimalist, developer, dev
 
 ## Description
 A simple, concise WordPress theme for developers.
