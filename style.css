@@ -1,0 +1,21 @@
+/*
+Theme Name: untheme
+Theme URI: tbd
+Author: Tania Rascia
+Author URI: https://www.taniarascia.com
+Description: a simple, concise WordPress theme for developers.
+Version: 0.0.1
+License: MIT License
+License URI: https://github.com/taniarascia/untheme/blob/master/LICENSE
+Tags: easy, simple, minimalist, developer, dev
+Text Domain: untheme
+*/
+
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important;
+}
