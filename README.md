@@ -1,5 +1,7 @@
 # untheme
 
+### A simple, concise WordPress theme for developers.
+
 * Contributors: Tania Rascia
 * Version: 0.0.1
 * License: MIT
