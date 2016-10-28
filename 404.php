@@ -2,7 +2,7 @@
 /**
  * The template for displaying 404 pages (not found)
  *
- * untheme - a simple, concise WordPress theme for developers
+ * untheme - a WordPress theme for developers
  * by Tania Rascia
  *
  */

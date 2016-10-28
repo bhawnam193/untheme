@@ -2,7 +2,7 @@
 /**
  * The template for displaying pages
  *
- * untheme - a simple, concise WordPress theme for developers
+ * untheme - a WordPress theme for developers
  * by Tania Rascia
  *
  */

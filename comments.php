@@ -2,7 +2,7 @@
 /**
  * The template for displaying comments
  *
- * untheme - a simple, concise WordPress theme for developers
+ * untheme - a WordPress theme for developers
  * by Tania Rascia
  *
  */
@@ -67,4 +67,4 @@ if ( post_password_required() ) {
 		) );
 	?>
 
-</div><!-- .comments-area -->
+</div>
